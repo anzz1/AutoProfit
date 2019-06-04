@@ -1,0 +1,6 @@
+## Title: AutoProfit v4.00
+## Interface: 11200
+## Version: 4.00
+## SavedVariables: autoProfitExceptions, autoSell, autoSilent
+## Notes: Automatically sells low quality gray items to the vendor.
+AutoProfit.xml
